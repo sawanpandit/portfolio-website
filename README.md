@@ -52,7 +52,7 @@
 ## 🚀 Featured Projects
 ### 🔹 **Portfolio Website**
 A modern and responsive portfolio built with HTML, CSS, and JavaScript.  
-➡️ *[Add Link Once Hosted]*
+➡️ *https://www.sawanpandit.com.np/*
 
 ### 🔹 **Web Dashboard UI**
 Interactive and clean admin dashboard UI with charts and animations.  
